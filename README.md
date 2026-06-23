@@ -48,7 +48,7 @@ AI_ML_Internship/
 │   ├── README.md
 │   └── requirements.txt
 │
-└── README.md                ← You are here
+└── README.md                
 ```
 
 ---
